@@ -1,4 +1,4 @@
-workspace "Referral application" {
+workspace "System name" {
 	model {
 		user = person "End user"
 
